@@ -49,6 +49,7 @@ except Exception as e:
 ```
 
 <H3> Output:</H3>
+
 ![image](https://github.com/user-attachments/assets/579ff590-957b-42e9-b4fe-6a6027a1f54a)
 
 <H3> Result:</H3>
